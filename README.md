@@ -1,1 +1,2 @@
-# odin-recipes
+- This is a project wherein i will make a recipe page using html
+- I will learn how to use html elements
